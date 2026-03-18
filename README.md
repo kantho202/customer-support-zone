@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+
 # 🎫 CS — Ticket System
+
+🔗 **Live Demo:** [https://playful-creponne-10d8e6.netlify.app/](https://playful-creponne-10d8e6.netlify.app/)
 
 A clean, responsive **Customer Support Ticket Management** app built with React 19 and Tailwind CSS. Support agents can view open tickets, move them into progress, and mark them as resolved — all in one streamlined interface.
 
